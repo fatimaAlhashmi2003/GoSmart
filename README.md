@@ -34,8 +34,12 @@ This portfolio showcase presents our shared work and my experience as a member o
 ### Trip Creation
 A four-step flow covering destination and dates, travelers and interests, budget and available time, and a final trip summary.
 
+![GoSmart trip creation screens](trip-creation.png)
+
 ### Generated Plan & Smart Packing
 An overview of the generated trip, daily itinerary, place selection, and packing checklist.
+
+![GoSmart itinerary and packing screens](trip-plan-packing.png)
 
 ## About This Repository
 
